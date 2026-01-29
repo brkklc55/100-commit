@@ -86,3 +86,4 @@
 [2026-01-29 12:43:39] Step 86: docs: update deployment steps
 [2026-01-29 12:43:40] Step 87: fix: optimize gas estimates for L2
 [2026-01-29 12:43:40] Step 88: refactor: modularize contract interaction
+[2026-01-29 12:43:41] Step 89: fix: handle rpc timeout gracefully
