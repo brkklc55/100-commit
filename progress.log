@@ -90,3 +90,4 @@
 [2026-01-29 12:43:41] Step 90: chore: update dependencies for base-mainnet
 [2026-01-29 12:43:41] Step 91: style: improve variable naming consistency
 [2026-01-29 12:43:42] Step 92: fix: optimize gas estimates for L2
+[2026-01-29 12:43:42] Step 93: feat: add base provider configuration
