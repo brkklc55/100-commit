@@ -94,3 +94,4 @@
 [2026-01-29 12:43:43] Step 94: chore: update dependencies for base-mainnet
 [2026-01-29 12:43:44] Step 95: feat: add base provider configuration
 [2026-01-29 12:43:44] Step 96: fix: handle rpc timeout gracefully
+[2026-01-29 12:43:44] Step 97: feat: integration with viem/ethers v6
