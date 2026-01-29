@@ -39,3 +39,4 @@
 [2026-01-29 12:43:15] Step 39: test: add unit tests for vault logic
 [2026-01-29 12:43:16] Step 40: feat: add base provider configuration
 [2026-01-29 12:43:17] Step 41: feat: integration with viem/ethers v6
+[2026-01-29 12:43:17] Step 42: docs: update deployment steps
