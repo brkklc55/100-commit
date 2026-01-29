@@ -7,3 +7,4 @@
 [2026-01-29 12:42:59] Step 7: chore: update dependencies for base-mainnet
 [2026-01-29 12:42:59] Step 8: fix: optimize gas estimates for L2
 [2026-01-29 12:42:59] Step 9: fix: optimize gas estimates for L2
+[2026-01-29 12:43:00] Step 10: feat: add base provider configuration
