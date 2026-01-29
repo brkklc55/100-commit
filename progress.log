@@ -84,3 +84,4 @@
 [2026-01-29 12:43:38] Step 84: feat: add base provider configuration
 [2026-01-29 12:43:39] Step 85: feat: integration with viem/ethers v6
 [2026-01-29 12:43:39] Step 86: docs: update deployment steps
+[2026-01-29 12:43:40] Step 87: fix: optimize gas estimates for L2
